@@ -1,0 +1,28 @@
+{
+  "name": "so-you-want-to-learn-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "format": "prettier --write '**/*.{js,css,md}'",
+    "posttest": "npm run format"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraVieira/so-you-want-to-learn-graphql.git"
+  },
+  "author": "Sara Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaraVieira/so-you-want-to-learn-graphql/issues"
+  },
+  "homepage": "https://github.com/SaraVieira/so-you-want-to-learn-graphql#readme",
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  },
+  "dependencies": {
+    "mrm": "^1.2.1"
+  }
+}
