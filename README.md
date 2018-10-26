@@ -2,9 +2,9 @@
 
 ## So you want to learn GraphQL?
 
-Learning new tech we know, so we are here to help you.
+Learning a new technology is hard, we know, so we are here to help you.
 
-First question: Do you Know what GraphQL is?
+First question: Do you know what GraphQL is?
 
 [Yes](/docs/what-to-learn.md)
 
