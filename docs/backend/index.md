@@ -1,10 +1,12 @@
-# Backend Track!
+# So you want to build APIs?
 
-You want to build awesome API's! That is great!
+Whether you like cats, <a href="https://github.com/lucasbento/graphql-pokemon" target="_blank"> Pokemon</a> or <a href="https://github.com/APIs-guru/graphql-apis" target="_blank">anything in between</a> - you can turn any topic into a GraphQL API.
 
-Problem is we can use GraphQL with a ton of languages, what is your favourite one?
+One of the best parts of GraphQL is that it's framework agnostic, so you can implement a GraphQL API using a bunch of different programming languages.
 
-- [Javascript(Node)](/docs/backend/node.md)
+ What's your favorite one?
+
+- [Node.js](/docs/backend/node.md)
 - [Ruby](/docs/backend/ruby.md)
 - [PHP](/docs/backend/php.md)
 - [Java](/docs/backend/java.md)

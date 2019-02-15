@@ -1,11 +1,11 @@
-# What do you want to learn?
+# So what do you want to learn?
 
-Awesome! So now you know what GraphQL is and want to get started doing some awesome stuff with it!
+Now that you know what GraphQL is, you can start building some rad shit with it.
 
-There are two ways to use GraphQL, you can use to create some really dope API's or you can use it to consume those API's and make your frontend code super sweet.
+There are two main ways to use GraphQL: You can use it create dope APIs. Or you can use it to consume those APIs and make your frontend code super sweet.
 
-In order to continue on the Journey I need to know if you want to:
+In order to continue on this journey, we need to know if you want to:
 
-[Build API's](/docs/backend/index.md)
+[Build APIs](/docs/backend/index.md)
 
-[Use it in the Frontend](/docs/frontend/index.md)
+[Use it in the frontend](/docs/frontend/index.md)
