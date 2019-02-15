@@ -1,7 +1,7 @@
 {
   "name": "so-you-want-to-learn-graphql",
   "version": "1.0.0",
-  "description": "",
+  "description": "'Choose Your Own Adventure' but with GraphQL",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev",
@@ -11,18 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SaraVieira/so-you-want-to-learn-graphql.git"
+    "url": "git+https://github.com/carolstran/so-you-want-to-learn-graphql.git"
   },
-  "author": "Sara Vieira",
+  "author": "Carolyn Stransky and Sara Vieira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SaraVieira/so-you-want-to-learn-graphql/issues"
+    "url": "https://github.com/carolstran/so-you-want-to-learn-graphql/issues"
   },
-  "homepage": "https://github.com/SaraVieira/so-you-want-to-learn-graphql#readme",
+  "homepage": "https://github.com/carolstran/so-you-want-to-learn-graphql#readme",
   "devDependencies": {
     "prettier": "^1.13.7"
   },
   "dependencies": {
+    "lodash": "^4.17.11",
     "mrm": "^1.2.1"
   }
 }
