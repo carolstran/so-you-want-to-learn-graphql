@@ -16,3 +16,4 @@
 - [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
 - [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
 - [GraphQL for PHP7](https://github.com/digiaonline/graphql-php) - A batteries-included, standard-compliant and easy to work with implementation of the GraphQL specification in PHP7 (based on the reference implementation).
+- [Siler](https://github.com/leocavalcante/siler) PHP library powered with high-level abstractions to work with GraphQL. [Overview on the Siler website](https://siler.leocavalcante.com/graphql/)

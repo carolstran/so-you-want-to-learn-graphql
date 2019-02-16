@@ -8,3 +8,7 @@
 - [tallstreet-graphql](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
 - [go-graphql](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
 - [dataloader](https://github.com/nicksrandall/dataloader) - Implementation of Facebook's DataLoader in Golang
+- [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) An active implementation of GraphQL in Golang
+- [samsarahq/thunder](https://github.com/samsarahq/thunder) A GraphQL implementation with schema building, live queries, and batching.
+- [gqlgen](https://github.com/99designs/gqlgen) Go generate based graphql server library.
+- [shurcooL/graphql](https://github.com/shurcooL/graphql) A GraphQL client implementation in Go.
