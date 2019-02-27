@@ -1,6 +1,25 @@
 # Java
 
+### Tutorials
+
+- [How to GraphQL graphql-java](https://www.howtographql.com/graphql-java/0-introduction/)
+
+### Server libraries
+
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
+
+### GraphQL Clients
+
+- [apollo-android](https://github.com/apollographql/apollo-android) A strongly-typed, caching GraphQL client for Android, written in Java.
+- [nodes](https://github.com/americanexpress/nodes) A GraphQL JVM Client designed for constructing queries from standard model definitions. By American Express.
+
+### Tools
+
+- [quicktype](https://github.com/quicktype/quicktype) Generate types for GraphQL queries
+
+
+### TODO
+
 - [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - Auto-generates types for use with GraphQL Java
 - [schemagen-graphql](https://github.com/bpatters/schemagen-graphql) - Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.
 - [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java.
@@ -13,5 +32,3 @@
 - [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql) - A Java CLI program that generates a GraphQL schema from a JDBC data source.
 - [Rejoiner](https://github.com/google/rejoiner) - Generates a GraphQL schema based on one or more gRPC microservices, or any other Protobuf source.
 - [graphql-spqr](https://github.com/leangen/graphql-spqr) - GraphQL SPQR aims to make it dead simple to add a GraphQL API to any Java project. It works by dynamically generating a GraphQL schema from Java code.
-- [apollo-android](https://github.com/apollographql/apollo-android) A strongly-typed, caching GraphQL client for Android, written in Java.
-- [nodes](https://github.com/americanexpress/nodes) A GraphQL JVM Client designed for constructing queries from standard model definitions. By American Express.

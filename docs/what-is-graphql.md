@@ -1,8 +1,12 @@
 # So you want to know what GraphQL is?
 
-That's great, welcome to the dark side. When you ask around about how to learn GraphQL, people tend to give you two (not very helpful) answers: "Try it out" or <a href="https://graphql.github.io/learn/" target="_blank">read the docs</a>. But it's not always that simple.
+That's great! When you ask around about how to learn GraphQL, people tend to give you two (not very helpful) answers: "Try it out" or <a href="https://graphql.github.io/learn/" target="_blank">read the docs</a>. But it's not always that simple.
+
+<!-- https://github.com/SaraVieira/graphql-portfolio -->
 
 Here are some of our favorite resources for absolute beginners.
+
+## TODO
 
 ## What is GraphQL?
 

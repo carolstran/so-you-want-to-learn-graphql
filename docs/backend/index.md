@@ -2,7 +2,11 @@
 
 Whether you like cats, <a href="https://github.com/lucasbento/graphql-pokemon" target="_blank"> Pokemon</a> or <a href="https://github.com/APIs-guru/graphql-apis" target="_blank">anything in between</a> - you can turn any topic into a GraphQL API.
 
+<!-- https://github.com/SaraVieira/worldcup-graphql -->
+
 One of the best parts of GraphQL is that it's framework agnostic, so you can implement a GraphQL API using a bunch of different programming languages.
+
+<!-- GraphQL Clients - https://blog.apollographql.com/why-you-might-want-a-graphql-client-e864050f789c -->
 
  What's your favorite one?
 

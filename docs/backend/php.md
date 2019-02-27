@@ -1,7 +1,13 @@
 # PHP
 
+### Server libraries
+
 - [graphql-php](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
 - [graphql-relay-php](https://github.com/ivome/graphql-relay-php) - Relay helpers for GraphQL & PHP.
+- [Siler](https://github.com/leocavalcante/siler) PHP library powered with high-level abstractions to work with GraphQL. [Overview on the Siler website](https://siler.leocavalcante.com/graphql/)
+
+### TODO
+
 - [API Platform](https://github.com/api-platform/api-platform) - API framework compatible with Symfony having native GraphQL support.
 - [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5.
 - [laravel-graphql-relay](https://github.com/nuwave/laravel-graphql-relay) - A Laravel library to help construct a server supporting react-relay.
@@ -16,4 +22,3 @@
 - [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
 - [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
 - [GraphQL for PHP7](https://github.com/digiaonline/graphql-php) - A batteries-included, standard-compliant and easy to work with implementation of the GraphQL specification in PHP7 (based on the reference implementation).
-- [Siler](https://github.com/leocavalcante/siler) PHP library powered with high-level abstractions to work with GraphQL. [Overview on the Siler website](https://siler.leocavalcante.com/graphql/)
