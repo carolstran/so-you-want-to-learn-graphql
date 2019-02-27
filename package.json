@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/carolstran/so-you-want-to-learn-graphql#readme",
   "devDependencies": {
-    "prettier": "^1.13.7"
+    "prettier": "^1.13.7",
+    "vuepress": "^0.14.9"
   },
   "dependencies": {
     "lodash": "^4.17.11",
