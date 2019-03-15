@@ -1,12 +1,10 @@
 # So you want to know what GraphQL is?
 
-That's great! When you ask around about how to learn GraphQL, people tend to give you two (not very helpful) answers: "Try it out" or <a href="https://graphql.github.io/learn/" target="_blank">read the docs</a>. But it's not always that simple.
-
 <!-- https://github.com/SaraVieira/graphql-portfolio -->
 
-Here are some of our favorite resources for absolute beginners.
+Here are some of our favorite video resources for absolute beginners.
 
-## TODO
+# TODO
 
 ## What is GraphQL?
 
@@ -20,8 +18,12 @@ In this video <a href="https://twitter.com/nikolasburk" target="_blank">Nikola B
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/T571423fC68" />
 
+<!-- Use cases: https://www.youtube.com/watch?v=pdBJ8EnLGEI -->
+
 ## Ready to continue?
 
-[Yes, let's build something](/docs/what-to-learn.md)
+[Yes, let's try it out](/docs/what-is-graphql/try-it-out.md)
 
 [No, I think I need more resources](/docs/what-is-graphql-more.md)
+
+[I'd like to see different types of resources](/docs/what-is-graphql/index.md)
